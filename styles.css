@@ -1,0 +1,36 @@
+body {
+    text-align: center;
+    font-size: 18px;
+}
+
+.background-fade {
+    background-color: rgba(0, 0, 255, .5);
+}
+
+h1 {
+    text-shadow:1px 1px 4px white;
+}
+
+.rgba-button button{
+    background-color: rgba(22, 123, 23, 1);
+
+}
+
+.rgba-button button:hover {
+    background-color: rgba(201, 2, 113, 1);
+}
+
+.smooth-hover a {
+    transition: 0.6s ease;
+    color: rgba(255, 0, 255, 1);
+}
+
+.smooth-hover a:hover {
+    color: rgba(0, 255, 255, 1);
+}
+
+.click-increase {
+
+}
+
+.click-increase::after.
